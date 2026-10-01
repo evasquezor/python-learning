@@ -14,4 +14,3 @@ a solid foundation for backend development.
 - [ ] Testing
 - [ ] APIs
 - [ ] FastAPI
-- [ ] Final Project
